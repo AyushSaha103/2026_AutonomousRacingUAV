@@ -1,4 +1,4 @@
-# Autonomous Aerial Racing Vehicle
+# Autonomous Racing UAV
 
 ### 🚁 Autonomy at my fingertips.
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bc75bdca-0c71-4c05-aa64-6bab1feeee66" />
