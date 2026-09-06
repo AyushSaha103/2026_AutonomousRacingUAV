@@ -10,7 +10,7 @@ A novel autonomy algorithm enabling aerial systems to **learn, adapt, and mainta
 
 Found this while considering me for a role? **Ask me about it.**
 
-The implementation may stay private. **The demo doesn't have to.** I'll happily run it live during an interview.
+The code may stay undisclosed. **The demo doesn't have to.** I can happily share it live during an interview.
 
 ### About
 
