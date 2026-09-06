@@ -1,25 +1,22 @@
-# Digital Twins Robotics Research
+# Autonomous Aerial Racing Vehicle
 
-### 🚁 Currently Building
-**Coming soon: Adaptive self-learning controller for autonomous aerial systems.**
+### 🚁 Autonomy at my fingertips.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bc75bdca-0c71-4c05-aa64-6bab1feeee66" />
 
-A novel algorithm enabling aerial systems to **learn, adapt, and maintain control in adverse environments.**
+**Status:** Controller built and operational. Adverse-environment adaptability testing in progress.
 
+A novel autonomy algorithm enabling aerial systems to **learn, adapt, and maintain control under adverse conditions.**
 
-### Intro
-Hi, I'm Ayush
+### Recruiters & Engineers
 
-I'm an **AI/ML and autonomous systems engineer** pursuing an M.S. in Computer Science (Artificial Intelligence) at USC.
+Found this while considering me for a role? **Ask me about it.**
 
-My work sits at the intersection of **Artificial Intelligence, autonomous systems, control, simulation, and the physical world**. I've built engineering and research systems across **Blue Origin, Volkswagen, Sandia National Laboratories, and Oak Ridge National Laboratory**, spanning adaptive digital twins, reinforcement learning, physics-informed ML, knowledge graphs, computer vision, and high-performance computing.
+The implementation may stay private. **The demo doesn't have to.** I'll happily run it live during an interview.
 
-## What I Build
+### About
 
-AI solutions which:
-- enable high-speed/ high-efficiency simulation and modeling of high-dimensional dynamic systems
-- use these models to autonomously control the systems
+Hi, I'm **Ayush** — a Software / AI / ML engineering intern alumnus of **Blue Origin, Volkswagen, Sandia National Laboratories, and Oak Ridge National Laboratory**, currently completing my **M.S. in Computer Science (AI) at USC**.
 
+I build at the intersection of **AI, autonomy, control, simulation, and the physical world.**
 
-## Discover More About Me
-[LinkedIn](https://www.linkedin.com/in/ayush-saha/) · [Research Portfolio (find link in resume)](#)
-
+[LinkedIn](https://www.linkedin.com/in/ayush-saha/) · [Research Portfolio](#)
