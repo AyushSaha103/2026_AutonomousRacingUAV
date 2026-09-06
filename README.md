@@ -6,16 +6,16 @@ A novel autonomy algorithm enabling aerial systems to **learn, adapt, and mainta
 
 **Status:** Successful autonomous UAV control achieved in indoor racing environments. Adverse-environment adaptability testing in progress.
 
-### Recruiters & Technical Pre-Screeners
+### Recruiters & Technical Interviewers
 
-Found this while considering me for a role? **Ask me about it.**
+Interested in this project? **I'd be happy to walk you through it.**
 
-The code may stay undisclosed. **The demo doesn't have to.** I can happily share it live during an interview.
+While the source code is private, I can provide a **live demo and technical walkthrough during an interview.**
 
-### About
+### About Me
 
-Hi, I'm **Ayush** — a Software / AI / ML engineering intern alumnus of **Blue Origin, Volkswagen, Sandia National Laboratories, and Oak Ridge National Laboratory**, currently completing my **M.S. in Computer Science (AI) at USC**.
+Hi, I'm **Ayush** — an M.S. Computer Science (AI) student at **USC** with software and AI/ML R&D experience at **Blue Origin, Volkswagen, Sandia National Laboratories, and Oak Ridge National Laboratory**.
 
-I build at the intersection of **AI, autonomy, control, simulation & modeling, and the physical world.**
+I build at the intersection of **AI, autonomy, control, simulation & modeling, and physical systems.**
 
-[LinkedIn](https://www.linkedin.com/in/ayush-saha/) · [Research Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/ayush-saha/) · [Research Portfolio](#) *(see résumé for link)*
