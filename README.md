@@ -16,6 +16,6 @@ The implementation may stay private. **The demo doesn't have to.** I'll happily 
 
 Hi, I'm **Ayush** — a Software / AI / ML engineering intern alumnus of **Blue Origin, Volkswagen, Sandia National Laboratories, and Oak Ridge National Laboratory**, currently completing my **M.S. in Computer Science (AI) at USC**.
 
-I build at the intersection of **AI, autonomy, control, simulation, and the physical world.**
+I build at the intersection of **AI, autonomy, control, simulation & modeling, and the physical world.**
 
 [LinkedIn](https://www.linkedin.com/in/ayush-saha/) · [Research Portfolio](#)
